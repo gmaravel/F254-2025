@@ -1,2 +1,3 @@
 # F254-2025
-testing
+
+Jupyter notebooks for teaching the "Introduction to Python for Phyisicists" at the University of Crete. 
